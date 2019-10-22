@@ -1,1 +1,3 @@
-# vault-banking-rankings
+## Vault Banking 50
+
+According to their website, [vault.com](https://www.vault.com/) surveys thousands of professionals to ranks the top employers and programs in various industries, such as law, consulting, and banking. The rankings are created using measures of prestige, culture, satisfaction, work/life balance, training, and compensation. In addition to the most recent rankings, [vault.com](https://www.vault.com/) publishes historical  rankings. This repo contains [data](https://github.com/erikgregorywebb/vault-banking-rankings/blob/master/data.csv) compiled for [Vault Banking 50](https://www.vault.com/best-companies-to-work-for/banking/best-banks-to-work-for-top-50/) from 2011 to 2019.
