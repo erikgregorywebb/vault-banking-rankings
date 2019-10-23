@@ -6,19 +6,13 @@ According to their website, [Vault.com](https://www.vault.com/) surveys thousand
 
 The chart below plots the change in rank for ten of the largest banks over time. It was built in <code>R</code> using <code>ggplot</code>.
 
-(Image Here)
+![Chart](chart.png)
 
 ### Observations:
 - <b>Dominance of GS</b>: Over the nine year period, Goldman only dipped below #2 once, in 2012.
 - <b>Decline of JPM</b>: Despite clenching #1 in 2012/2013, JPM declined in the following years, landing #18 in 2018/2019.
 - <b>Growth of BAML</b>: After landing #28 in 2011, BAML's rank has steadily improved over time, hovering at #9 in 2019. 
 
-Despite clenching #1 in 2012/2013, JPM declined in the following years, landing #18 in 2018/2019.
-
 ### Disclaimer:
 
-Ulttimately, rankings of this kind are highly subjective and subject to debate. The Vault rankings are interesting in that they attempt to collapse many different metrics of employee satifsation into a single score. Yet, they're far from perfect and should be 
-
-How do you measure prestigue? 
-This is NOT a measure of financial performnace, assets, deal flow, 
-and the ambigous "prestige" 
+Ultimately, rankings of this kind are highly subjective and subject to debate. The Vault rankings are interesting in that they attempt to collapse many different metrics of employee satisfaction into a single score. But really, how do you measure prestige?
